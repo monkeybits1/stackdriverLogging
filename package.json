@@ -1,0 +1,22 @@
+{
+  "name": "stackdriver logging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkeybits1/stackdriverLogging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monkeybits1/stackdriverLogging/issues"
+  },
+  "homepage": "https://github.com/monkeybits1/stackdriverLogging#readme",
+  "dependencies": {
+    "@google-cloud/logging": "^1.1.1"
+  }
+}
